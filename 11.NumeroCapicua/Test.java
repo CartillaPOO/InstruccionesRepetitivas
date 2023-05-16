@@ -29,7 +29,8 @@ public class Test
         else
         {
             JOptionPane.showMessageDialog(null, "No es capicúa"); // Output
-
         }
+
+        System.exit(0);
     }
 }

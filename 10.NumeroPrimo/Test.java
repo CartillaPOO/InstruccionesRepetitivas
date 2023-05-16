@@ -28,5 +28,7 @@ public class Test
         {
             JOptionPane.showMessageDialog(null, "El número " + n + " no es primo"); // Output
         }
+        
+        System.exit(0);
     }
 }

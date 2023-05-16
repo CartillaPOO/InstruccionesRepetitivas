@@ -23,6 +23,8 @@ public class Test
         else
         {
             JOptionPane.showMessageDialog(null, "No se pueden introducir números negativos"); // Output
-        }  
+        }
+
+        System.exit(0);
     }
 }
