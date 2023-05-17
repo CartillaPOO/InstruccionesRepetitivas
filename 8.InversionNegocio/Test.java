@@ -18,7 +18,7 @@ public class Test
         while(c1 + c2 < c3)
         {
             meses ++; // meses = meses + 1;
-            c1 += c1*0.03;
+            c1 += c1*0.03; // c1 = c1 + c1*0.03;
             c2 += c2*0.04;
         }
 

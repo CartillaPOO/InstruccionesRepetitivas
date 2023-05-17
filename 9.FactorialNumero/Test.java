@@ -16,7 +16,7 @@ public class Test
         {
             for(int i = 1; i<=n; i++)
             {
-                fact *= i;
+                fact *= i; // fact = fact * i
             }
             JOptionPane.showMessageDialog(null, "El factorial de " + n + "es " + fact); // Output
         }
