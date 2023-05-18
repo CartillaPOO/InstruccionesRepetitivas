@@ -2,6 +2,7 @@ import javax.swing.JOptionPane;
 
 public class Test
 {
+    // Método principal
     public static void main(String[] args)
     {
         //
